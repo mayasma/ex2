@@ -1,0 +1,16 @@
+body
+{
+//home/mayas/Desktop/Ex2-master/AboutUs.html*/
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88bfe8', endColorstr='#70b0e0',GradientType=0 ); /* IE6-9 */
+}
+.main-title h2
+{
+	color:Red;
+	
+}
+
+.text-center
+{
+	color:Blue;
+}
+
